@@ -1,1 +1,1 @@
-# playing_with_jasmine_day1
+# FizzBuzz in JavaScript
